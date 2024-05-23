@@ -1,0 +1,21 @@
+body{
+    background-color:cornflowerblue
+}
+.hoja{
+    text-align: center;
+}
+
+.inicio{
+    text-align: center;
+}
+
+.contenedor {
+    display: contents;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .contenedor > div {
+    width: 70%;
+  }
+  
